@@ -1,4 +1,36 @@
-## Hi there 👋
+# Hi, I'm Kiran Naik 👋
+
+## 👨‍💻 Who Am I?
+I'm a BSc Computer Science student passionate about technology, AI, and data analysis.
+
+I'm currently learning programming, exploring new technologies, and building my skills one project at a time.
+
+## 🚀 What I'm Currently Working On
+- Learning AI and Data Analysis
+- Improving my programming skills
+- Exploring open-source projects
+- Building beginner-friendly projects
+
+## 🛠️ Tools I Use
+- Python
+- SQL
+- Git & GitHub
+- Oracle Database
+- VS Code
+
+## 📚 Currently Learning
+- Data Structures & Algorithms
+- PL/SQL
+- Artificial Intelligence
+- Data Analytics
+
+## 📫 How To Reach Me
+- GitHub: @c
+- LinkedIn: Add your LinkedIn profile here
+- Email: your-email@example.com
+
+---
+⭐ Always learning, building, and improving.
 
 <!--
 **CodeWithKiran056/CodeWithKiran056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
