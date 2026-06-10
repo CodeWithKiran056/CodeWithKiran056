@@ -25,9 +25,8 @@ I'm currently learning programming, exploring new technologies, and building my 
 - Data Analytics
 
 ## 📫 How To Reach Me
-- GitHub: @c
-- LinkedIn: Add your LinkedIn profile here
-- Email: your-email@example.com
+- GitHub: CodeWithKiran
+- Email: kiraa84548@gmail.com
 
 ---
 ⭐ Always learning, building, and improving.
