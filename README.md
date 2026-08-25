@@ -1,36 +1,62 @@
 # Hi, I'm Kiran Naik 👋
 
-## 👨‍💻 Who Am I?
-I'm a BSc Computer Science student passionate about technology, AI, and data analysis.
+I'm a BSc Computer Science student who enjoys learning new technologies
+and improving my skills by working on practical projects.
 
-I'm currently learning programming, exploring new technologies, and building my skills one project at a time.
+## 💻 What I've Been Learning
 
-## 🚀 What I'm Currently Working On
-- Learning AI and Data Analysis
-- Improving my programming skills
-- Exploring open-source projects
-- Building beginner-friendly projects
+- Programming and problem solving
+- Frontend development with React
+- JavaScript and modern web development
+- Backend development with Node.js and Express
+- Building and working with REST APIs
+- MongoDB and database management
+- Authentication using JWT
+- Real-time communication with Socket.IO
+- WebRTC and real-time video communication
+- AI API integration and conversational AI
+- RAG and document-based AI systems
+- Working with APIs and third-party services
+- Responsive UI development
+- Git and GitHub
+- Debugging and testing applications
 
-## 🛠️ Tools I Use
-- Python
+## 🛠️ Technologies I've Worked With
+
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
 - SQL
+- HTML
+- CSS
+- Tailwind CSS
+- Socket.IO
+- WebRTC
 - Git & GitHub
-- Oracle Database
 - VS Code
+- Postman
 
 ## 📚 Currently Learning
-- Data Structures & Algorithms
-- PL/SQL
+
 - Artificial Intelligence
 - Data Analytics
+- Full-Stack Development
+- Data Structures & Algorithms
+- Software Engineering
+- Cloud & Deployment
 
-## 📫 How To Reach Me
-- GitHub: CodeWithKiran
+## 🎯 My Goal
+
+I'm focused on becoming a better software developer by learning through
+projects, understanding how different technologies work together, and
+getting better at solving problems.
+
+## 📫 Connect With Me
+
+- GitHub: [CodeWithKiran056](https://github.com/CodeWithKiran056)
 - Email: kiraa84548@gmail.com
-
----
-⭐ Always learning, building, and improving.
-
 <!--
 **CodeWithKiran056/CodeWithKiran056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
